@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Flux combiné Armand Ley &amp; Nicolas Juillet</title><link>http://export.arxiv.org/</link><description>Publications arXiv récentes des auteurs Armand Ley et Nicolas Juillet.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sun, 01 Jun 2025 13:31:07 +0000</lastBuildDate><item><title>On A Mixture Of Brenier and Strassen Theorems</title><link>http://arxiv.org/abs/1808.02681v2</link><description>We give a characterization of optimal transport plans for a variant of the
+usual quadratic transport cost introduced in [33]. Optimal plans are
+composition of a deterministic transport given by the gradient of a
+continuously differentiable convex function followed by a martingale coupling.
+We also establish some connections with Caffarelli's contraction theorem [14].</description><guid isPermaLink="false">http://arxiv.org/abs/1808.02681v2</guid><pubDate>Wed, 08 Aug 2018 09:14:03 +0000</pubDate></item><item><title>On a solution to the Monge transport problem on the real line arising
+  from the strictly concave case</title><link>http://arxiv.org/abs/1907.00681v1</link><description>It is well-known that the optimal transport problem on the real line for the
+classical distance cost may not have a unique solution. In this paper we
+recover uniqueness by considering the transport problems where the costs are a
+power smaller than one of the distance, and letting this parameter tend to one.
+A complete construction of this solution that we call excursion coupling is
+given. This is reminiscent to the one in the convex case. It is also
+characterized as the solution of secondary transport problems. Moreover, a
+combinatoric/geometric characterization of the routes used for this transport
+plan is provided.</description><guid isPermaLink="false">http://arxiv.org/abs/1907.00681v1</guid><pubDate>Mon, 01 Jul 2019 12:09:08 +0000</pubDate></item><item><title>A Coupling Proof of Convex Ordering for Compound Distributions</title><link>http://arxiv.org/abs/1910.07218v1</link><description>In this paper, we give an alternative proof of the fact that, when
+compounding a nonnegative probability distribution, convex ordering between the
+distributions of the number of summands implies convex ordering between the
+resulting compound distributions. Although this is a classical textbook result
+in risk theory, our proof exhibits a concrete coupling between the compound
+distributions being compared, using the representation of one-period discrete
+martingale laws as a mixture of the corresponding extremal measures.</description><guid isPermaLink="false">http://arxiv.org/abs/1910.07218v1</guid><pubDate>Wed, 16 Oct 2019 08:42:29 +0000</pubDate></item><item><title>SubRiemanniann structures do not satisify Riemannian Brunn--Minkowski
+  inequalities</title><link>http://arxiv.org/abs/2002.01170v1</link><description>We prove that no Brunn--Minkowski inequality from the Riemannian theories of
+curvature-dimension and optimal transportation can by satisfied by a strictly
+subRiemannian structure. Our proof relies on the same method as for the
+Heisenberg group together with new investigations by Agrachev, Barillari and
+Rizzi on ample normal geodesics of subRieman-nian structures and the geodesic
+dimension attached to them.</description><guid isPermaLink="false">http://arxiv.org/abs/2002.01170v1</guid><pubDate>Tue, 04 Feb 2020 08:38:04 +0000</pubDate></item><item><title>Shadow martingales -- a stochastic mass transport approach to the
+  peacock problem</title><link>http://arxiv.org/abs/2006.10478v3</link><description>Given a family of real probability measures $(\mu_t)_{t\geq 0}$ increasing in
+convex order (a peacock) we describe a systematic method to create a martingale
+exactly fitting the marginals at any time. The key object for our approach is
+the obstructed shadow of a measure in a peacock, a generalization of the
+(obstructed) shadow introduced in \cite{BeJu16,NuStTa17}. As input data we take
+an increasing family of measures $(\nu^\alpha)_{\alpha \in [0,1]}$ with
+$\nu^\alpha(\mathbb{R})=\alpha$ that are submeasures of $\mu _0$, called a
+parametrization of $\mu_0$. Then, for any $\alpha$ we define an evolution
+$(\eta^\alpha_t)_{t\geq 0}$ of the measure $\nu^\alpha=\eta^\alpha_0$ across
+our peacock by setting $\eta^\alpha_t$ equal to the obstructed shadow of
+$\nu^\alpha$ in $(\mu _s)_{s \in [0,t]}$. We identify conditions on the
+parametrization $(\nu^\alpha)_{\alpha\in [0,1]}$ such that this construction
+leads to a unique martingale measure $\pi$, the shadow martingale, without any
+assumptions on the peacock. In the case of the left-curtain parametrization
+$(\nu_{\text{lc}}^\alpha)_{\alpha \in [0,1]}$ we identify the shadow martingale
+as the unique solution to a continuous-time version of the martingale optimal
+transport problem.
+  Furthermore, our method enriches the knowledge on the Predictable
+Representation Property (PRP) since any shadow martingale comes with a
+canonical Choquet representation in extremal Markov martingales.</description><guid isPermaLink="false">http://arxiv.org/abs/2006.10478v3</guid><pubDate>Thu, 18 Jun 2020 12:48:15 +0000</pubDate></item><item><title>Instability of Martingale optimal transport in dimension d $\ge$ 2</title><link>http://arxiv.org/abs/2101.06964v1</link><description>Stability of the value function and the set of minimizers w.r.t. the given
+data is a desirable feature of optimal transport problems. For the classical
+Kantorovich transport problem, stability is satisfied under mild assumptions
+and in general frameworks such as the one of Polish spaces. However, for the
+martingale transport problem several works based on different strategies
+established stability results for R only. We show that the restriction to
+dimension d = 1 is not accidental by presenting a sequence of marginal
+distributions on R 2 for which the martingale optimal transport problem is
+neither stable w.r.t. the value nor the set of minimizers. Our construction
+adapts to any dimension d $\ge$ 2. For d $\ge$ 2 it also provides a
+contradiction to the martingale Wasserstein inequality established by Jourdain
+and Margheriti in d = 1.</description><guid isPermaLink="false">http://arxiv.org/abs/2101.06964v1</guid><pubDate>Mon, 18 Jan 2021 10:11:14 +0000</pubDate></item><item><title>On absolutely continuous curves in the Wasserstein space over R and
+  their representation by an optimal Markov process</title><link>http://arxiv.org/abs/2105.02495v2</link><description>Let $\mu$ = ($\mu$t)t$\in$R be a 1-parameter family of probability measures
+on R. In [11] we introduced its ``Markov-quantile''process: a process X=
+(Xt)t$\in$R that resembles as much as possible the quantile process attached to
+$\mu$, among the Markov processesattached to $\mu$, i.e. whose family of
+marginal laws is $\mu$.In this article we look at the case where $\mu$ is
+absolutely continuous in the Wasserstein space P2(R). Then X is solution of
+adynamical transport problem with marginals ($\mu$t)t. It provides a Markov
+minimal Lagrangian probabilistic representative of $\mu$, whichis moreover
+unique among the processes obtained as certain types of limits: limits for the
+finite dimensional topology of quantileprocesses where the past is made
+independent of the future conditionally on the present at finitely many times,
+or limits of processeslinearly interpolating $\mu$.This raises new questions
+about ways to obtain Markov Lagrangian representatives, and to seek uniqueness
+properties in thisframework.</description><guid isPermaLink="false">http://arxiv.org/abs/2105.02495v2</guid><pubDate>Thu, 06 May 2021 07:51:17 +0000</pubDate></item><item><title>Taking Music Seriously: on the Dynamics of 'Mathemusical' Research with
+  a Focus on Hexachordal Theorems</title><link>http://arxiv.org/abs/2402.00507v1</link><description>After presenting the general framework of 'mathemusical' dynamics, we focus
+on one music-theoretical problem concerning a special case of homometry theory
+applied to music composition, namely Milton Babbitt's hexachordal theorem. We
+briefly discuss some historical aspects of homometric structures and their
+ramifications in crystallography, spectral analysis and music composition via
+the construction of rhythmic canons tiling the integer line. We then present
+the probabilistic generalization of Babbitt's result we recently introduced in
+a paper entitled ''New hexachordal theorems in metric spaces with probability
+measure'' and illustrate the new approach with original constructions and
+examples.</description><guid isPermaLink="false">http://arxiv.org/abs/2402.00507v1</guid><pubDate>Thu, 01 Feb 2024 11:18:38 +0000</pubDate></item><item><title>The Analytic Stockwell Transform and its Zeros</title><link>http://arxiv.org/abs/2407.17076v3</link><description>A recent original line of research in time--frequency analysis has shifted
+the interest in energy maxima toward zeros. Initially motivated by the
+intriguing uniform spread of the zeros of the spectrogram of white noise, it
+has led to fruitful theoretical developments combining probability theory,
+complex analysis and signal processing. In this vein, the present work proposes
+a characterization of the zeros of the Stockwell Transform of white noise,
+which consists in an hybrid time--frequency multiresolution representation.
+First of all, an analytic version of the Stockwell Transform is designed. Then,
+analyticity is leveraged to establish a connection with the hyperbolic Gaussian
+Analytic Function, whose zero set is invariant under the isometries of the
+Poincar\'e disk. Finally, the theoretical spatial statistics of the zeros of
+the hyperbolic Gaussian Analytic Function and the empirical statistics of the
+zeros the Analytic Stockwell Transform of white noise are compared through
+intensive Monte Carlo simulations, supporting the established connection. A
+publicly available documented Python toolbox accompanies this work.</description><guid isPermaLink="false">http://arxiv.org/abs/2407.17076v3</guid><pubDate>Wed, 24 Jul 2024 08:06:15 +0000</pubDate></item><item><title>On the Markov transformation of Gaussian processes</title><link>http://arxiv.org/abs/2412.10001v1</link><description>Given a Gaussian process $(X_t)_{t \in \mathbb{R}}$, we construct a Gaussian
+\emph{Markov} process with the same one-dimensional marginals using sequences
+of transformations of $(X_t)_{t \in \mathbb{R}}$ "made Markov" at finitely many
+times. We prove that there exists at least such a Markov transform of $(X_t)_{t
+\in \mathbb{R}}$. In the case the instantaneous decorrelation rate of $(X_t)_{t
+\in \mathbb{R}}$ is continuous, we prove that the Markov transform is uniquely
+determined and characterized through the same instantaneous decorrelation rate.</description><guid isPermaLink="false">http://arxiv.org/abs/2412.10001v1</guid><pubDate>Fri, 13 Dec 2024 09:39:50 +0000</pubDate></item><item><title>The soccer model, stochastic ordering and martingale transport</title><link>http://arxiv.org/abs/2503.07145v1</link><description>Tournaments are competitions between a number of teams, the outcome of which
+determines the relative strength or rank of each team. In many cases, the
+strength of a team in the tournament is given by a score. Perhaps, the most
+striking mathematical result on the tournament is Moon's theorem, which
+provides a necessary and sufficient condition for a feasible score sequence via
+majorization. To give a probabilistic interpretation of Moon's result, Aldous
+and Kolesnik introduced the soccer model,the existence of which gives a short
+proof of Moon's theorem. However, the existence proof of Aldous and Kolesnik is
+nonconstructive, leading to the question of a ``canonical'' construction of the
+soccer model. The purpose of this paper is to provide explicit constructions of
+the soccer model with an additional stochastic ordering constraint, which can
+be formulated by martingale transport. Two solutions are given: one is by
+solving an entropy optimization problem via Sinkhorn's algorithm, and the other
+relies on the idea of shadow couplings. It turns out that both constructions
+yield the property of strong stochastic transitivity. The nontransitive
+situations of the soccer model are also considered.</description><guid isPermaLink="false">http://arxiv.org/abs/2503.07145v1</guid><pubDate>Mon, 10 Mar 2025 10:20:08 +0000</pubDate></item></channel></rss>
